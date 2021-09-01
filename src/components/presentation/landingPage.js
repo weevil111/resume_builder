@@ -14,7 +14,7 @@ const Lp = () => {
                 </NavLink>
                 
                 </div>
-                <img src={logo}   className="lp-resume" alt="logo" />
+                <img src={logo} className="lp-resume" alt="logo" />
          </div>        
          </div>
     
